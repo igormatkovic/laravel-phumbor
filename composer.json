@@ -1,7 +1,7 @@
 {
-    "name": "ceejayoz/laravel-phumbor",
+    "name": "igormatkovic/laravel-phumbor",
     "description": "Laravel package adding support for the Phumbor PHP library for Thumbor.",
-	"homepage": "https://github.com/ceejayoz/laravel-phumbor",
+	"homepage": "https://github.com/igormatkovic/laravel-phumbor",
 	"license": "MIT",
 	"keywords": ["laravel", "phumbor", "thumbor"],
     "authors": [
